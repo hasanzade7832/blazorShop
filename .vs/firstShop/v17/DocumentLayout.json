@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Najmprog1\\Desktop\\blazorShop\\blazorShop\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D84590B1-706C-4268-A145-445763CC6182}|firstShop.csproj|c:\\users\\najmprog1\\desktop\\blazorshop\\blazorshop\\components\\pages\\learnblaze\\bindprop.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D84590B1-706C-4268-A145-445763CC6182}|firstShop.csproj|solutionrelative:components\\pages\\learnblaze\\bindprop.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84590B1-706C-4268-A145-445763CC6182}|firstShop.csproj|c:\\users\\najmprog1\\desktop\\blazorshop\\blazorshop\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D84590B1-706C-4268-A145-445763CC6182}|firstShop.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84590B1-706C-4268-A145-445763CC6182}|firstShop.csproj|c:\\users\\najmprog1\\desktop\\blazorshop\\blazorshop\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D84590B1-706C-4268-A145-445763CC6182}|firstShop.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Najmprog1\\Desktop\\blazorShop\\blazorShop\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Najmprog1\\Desktop\\blazorShop\\blazorShop\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T15:56:10.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BindProp.razor",
+              "DocumentMoniker": "C:\\Users\\Najmprog1\\Desktop\\blazorShop\\blazorShop\\Components\\Pages\\LearnBlaze\\BindProp.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\LearnBlaze\\BindProp.razor",
+              "ToolTip": "C:\\Users\\Najmprog1\\Desktop\\blazorShop\\blazorShop\\Components\\Pages\\LearnBlaze\\BindProp.razor",
+              "RelativeToolTip": "Components\\Pages\\LearnBlaze\\BindProp.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T15:53:15.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Najmprog1\\Desktop\\blazorShop\\blazorShop\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Najmprog1\\Desktop\\blazorShop\\blazorShop\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T15:38:59.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
