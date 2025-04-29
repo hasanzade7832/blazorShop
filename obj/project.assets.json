@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Najmprog1\\source\\repos\\firstShop\\firstShop.csproj",
+      "projectUniqueName": "C:\\Users\\Najmprog1\\Desktop\\blazorShop\\blazorShop\\firstShop.csproj",
       "projectName": "firstShop",
-      "projectPath": "C:\\Users\\Najmprog1\\source\\repos\\firstShop\\firstShop.csproj",
+      "projectPath": "C:\\Users\\Najmprog1\\Desktop\\blazorShop\\blazorShop\\firstShop.csproj",
       "packagesPath": "C:\\Users\\Najmprog1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Najmprog1\\source\\repos\\firstShop\\obj\\",
+      "outputPath": "C:\\Users\\Najmprog1\\Desktop\\blazorShop\\blazorShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
