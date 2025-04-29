@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Najmprog1\\Desktop\\blazorShop\\blazorShop\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\blazorShop\\blazorShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D84590B1-706C-4268-A145-445763CC6182}|firstShop.csproj|c:\\users\\najmprog1\\desktop\\blazorshop\\blazorshop\\components\\pages\\learnblaze\\bindprop.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D84590B1-706C-4268-A145-445763CC6182}|firstShop.csproj|solutionrelative:components\\pages\\learnblaze\\bindprop.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D84590B1-706C-4268-A145-445763CC6182}|firstShop.csproj|c:\\users\\asus\\desktop\\blazorshop\\blazorshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84590B1-706C-4268-A145-445763CC6182}|firstShop.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D84590B1-706C-4268-A145-445763CC6182}|firstShop.csproj|c:\\users\\najmprog1\\desktop\\blazorshop\\blazorshop\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D84590B1-706C-4268-A145-445763CC6182}|firstShop.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D84590B1-706C-4268-A145-445763CC6182}|firstShop.csproj|c:\\users\\najmprog1\\desktop\\blazorshop\\blazorshop\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D84590B1-706C-4268-A145-445763CC6182}|firstShop.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D84590B1-706C-4268-A145-445763CC6182}|firstShop.csproj|c:\\users\\asus\\desktop\\blazorshop\\blazorshop\\components\\pages\\learnblazor\\bindprop.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D84590B1-706C-4268-A145-445763CC6182}|firstShop.csproj|solutionrelative:components\\pages\\learnblazor\\bindprop.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\Najmprog1\\Desktop\\blazorShop\\blazorShop\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\Najmprog1\\Desktop\\blazorShop\\blazorShop\\Components\\_Imports.razor",
-              "RelativeToolTip": "Components\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "BindProp.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\blazorShop\\blazorShop\\Components\\Pages\\LearnBlazor\\BindProp.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\LearnBlazor\\BindProp.razor",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\blazorShop\\blazorShop\\Components\\Pages\\LearnBlazor\\BindProp.razor",
+              "RelativeToolTip": "Components\\Pages\\LearnBlazor\\BindProp.razor",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-29T15:56:10.883Z",
+              "WhenOpened": "2025-04-29T19:04:15.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BindProp.razor",
-              "DocumentMoniker": "C:\\Users\\Najmprog1\\Desktop\\blazorShop\\blazorShop\\Components\\Pages\\LearnBlaze\\BindProp.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\LearnBlaze\\BindProp.razor",
-              "ToolTip": "C:\\Users\\Najmprog1\\Desktop\\blazorShop\\blazorShop\\Components\\Pages\\LearnBlaze\\BindProp.razor",
-              "RelativeToolTip": "Components\\Pages\\LearnBlaze\\BindProp.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-29T15:53:15.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\Najmprog1\\Desktop\\blazorShop\\blazorShop\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\Najmprog1\\Desktop\\blazorShop\\blazorShop\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-29T15:38:59.395Z",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\blazorShop\\blazorShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\blazorShop\\blazorShop\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:02:03.858Z",
               "EditorCaption": ""
             }
           ]
