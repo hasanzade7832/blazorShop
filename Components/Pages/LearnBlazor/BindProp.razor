@@ -1,7 +1,22 @@
-﻿ @page "/LearnBlazor/bindprop"
+﻿@page "/LearnBlazor/bindprop"
 
-<h3>BindProp</h3>
+<h3>Product - Data Binding</h3>
+
+Name : @product.Name
+<br />
+IsActive : @product.IsActive
+<br />
+Price : @product.Price
+<br />
+
+<input type="number" @bind="@product.Price" @bind:event="oninput" />
 
 @code {
-
+    Models.Product product = new()
+        {
+            Id = 1,
+            Name = "Product 1",
+            IsActive = true,
+            Price = 5
+        };
 }
